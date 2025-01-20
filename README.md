@@ -2,7 +2,7 @@
 
 **Data Scientist | Machine Learning Engineer | Software Developer**
 
-Welcome to my GitHub profile! I'm a tech enthusiast specializing in data science, machine learning, and software development. I thrive on leveraging technology to solve real-world problems and continuously seek opportunities to apply my skills innovatively.
+Welcome to my GitHub profile! I'm a tech enthusiast willing to persue my passion towards data science, machine learning, and software development. I thrive on leveraging technology to solve real-world problems and continuously seek opportunities to apply my skills innovatively.
 
 ---
 
@@ -53,7 +53,7 @@ A comprehensive disaster management network implementation using Cisco Packet Tr
 
 ---
 
-### [AES Encryption Tool](https://github.com/syahra712/aes-encryption-tool)
+### 🌟 [AES Encryption Tool](https://github.com/syahra712/aes-encryption-tool)
 A robust desktop application for secure file encryption and decryption using the Advanced Encryption Standard (AES). Features include AES-CFB encryption mode, password-based key derivation using PBKDF2, real-time progress tracking, and a modern GUI built with PyQt5. The tool emphasizes security and user experience with password strength validation and cross-platform compatibility.
 
 **Technologies:** Python, PyQt5, Cryptography, GUI, Security
