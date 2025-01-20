@@ -60,7 +60,7 @@ A robust desktop application for secure file encryption and decryption using the
 
 ---
 
-### 🏆 Achievements & Competitions**
+### 🏆 Achievements & Competitions
 - **NASA Space Apps Challenge**: Participated in a global hackathon at NED University.
 - **HBL PASHA ICT Awards 2024**: Top 21 finalist in Pakistan’s prestigious ICT competition.
 - **Techathon at Bahria University**: Presented the Eco-Viz project and got 2nd position.
