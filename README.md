@@ -110,8 +110,6 @@ A robust desktop application for secure file encryption and decryption using the
 
 ![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syahra712&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syahra712&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Connect with Me
