@@ -46,14 +46,14 @@ An interactive platform for analyzing and visualizing environmental data with re
 
 ---
 
-### 🌟 [Smart Disaster Response Network](https://github.com/syahra712/smart-disaster-response-network)
+### 🌟 [Smart Disaster Response Network](https://github.com/syahra712/CCN-Semester-Project)
 A comprehensive disaster management network implementation using Cisco Packet Tracer. Features include IoT integration for real-time monitoring, secure communication channels between emergency services (Police, Fire Station, Hospital), and advanced networking concepts including VLAN segmentation, ACLs, and QoS for prioritizing emergency traffic.
 
 **Technologies:** Cisco, IoT, Networking, Security, VLAN, QoS
 
 ---
 
-### 🌟 [AES Encryption Tool](https://github.com/syahra712/aes-encryption-tool)
+### 🌟 [AES Encryption Tool](https://github.com/syahra712/aes-encryption)
 A robust desktop application for secure file encryption and decryption using the Advanced Encryption Standard (AES). Features include AES-CFB encryption mode, password-based key derivation using PBKDF2, real-time progress tracking, and a modern GUI built with PyQt5. The tool emphasizes security and user experience with password strength validation and cross-platform compatibility.
 
 **Technologies:** Python, PyQt5, Cryptography, GUI, Security
