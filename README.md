@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast willing to persue my passion
 
 ## 🚀 Featured Projects
 
-### 🌟 [Eco-Viz](https://github.com/syahra712/eco-viz)
+### 🌟 [Eco-Viz](https://v0-eco-viz-naf1te4kx05-syed-ahnaf-razas-projects.vercel.app)
 An interactive platform for analyzing and visualizing environmental data with real-time chatbot integration. Features include dynamic visualizations of methane and CO2 emissions, machine learning-powered Air Quality Index predictions, and an intuitive interface for exploring climate data patterns. Built with Streamlit and integrated with the Gemini API for intelligent data insights.
 
 **Technologies:** Python, Streamlit, Machine Learning, Gemini API, Data Visualization
